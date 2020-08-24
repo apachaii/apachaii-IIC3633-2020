@@ -1,4 +1,9 @@
- Paper trata sobre sistemas recomendadores de filtrado colaborativo basado en feedback implícito, esto en la práctica nos significa un plus importante respecto al paper de la semana pasada (Collaborative filtering for implicit feedback datasets) ya que esta vez se considera información que no necesariamente está disponible a simple vista, lo que por cierto es una realidad en gran parte de la data existente
+
+# Critica: Collaborative Filtering for Implicit Feedback Datasets
+
+
+El Paper trata sobre sistemas recomendadores de filtrado colaborativo basado en feedback implícito, esto en la práctica nos significa un plus importante respecto al paper de la semana pasada (Collaborative filtering for implicit feedback datasets) ya que esta vez se considera información que no necesariamente está disponible a simple vista, lo que por cierto es una realidad en gran parte de la data existente
+
 
 
 El modelo explicado en este Paper parte de la premisa de comprar modelos clásicos como *Neighborhood* o Latent factor models en contra parte con el modelo propio, este último es una versión (a mi juicio) mejorada de  *matrix factorization*, y digo mejorada porque contiene algo que es importante en la industria en la actualidad, la personalizacion o almenos lo intenta de una manera más literal que  *matrix factorization* clasico, en esa línea el método que se utiliza para poder llevar a cabo esto me parece bastante inteligente, utilizar un método que funciona y tratar de mejorarlo es algo que me parece interesante, sin embargo me quedan algunas dudas respecto al costo computacional, en general en mi experiencia los métodos basados en gradiente tienden a consumir recursos en exceso, sería interesante ver un método que incorpore  por ejemplo algoritmos bioinspirados que dan un rendimiento bastante bueno en conjunto de datos grandes.
