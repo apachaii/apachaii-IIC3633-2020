@@ -1,7 +1,7 @@
 
-# Critica:  Document clustering based on non-negative matrix factorization
+# Critica:  Inspectability and control in social recommenders.
 
-Este articulo llamado “Document clustering based on non-negative matrix factorization” escrito por "Wei Xu, Xin Liu, and Yihong Gong." en 2003, nos habla sobre la idea de que los usuarios quieren inspeccionar y controlar cómo sus relaciones sociales influyen las recomendaciones que reciben, ya que se basan en amigos más que en vecinos desconocidos, para ello usan un recomendador de facebook que da a los usuarios el control de las recomendaciones. El sistema entrega recomendaciones principalmente musicales. Por otro lado, también se busca profundizar en recomendaciones sociales gracias al testeo explícito del efecto de saber que le gusta a tus amigos para mejorar la inspección y control del usuario.
+Este articulo llamado “Inspectability and control in social recommenders.” escrito por "Bart P. Knijnenburg, y otros." en 2012, nos habla sobre la idea de que los usuarios quieren inspeccionar y controlar cómo sus relaciones sociales influyen las recomendaciones que reciben, ya que se basan en amigos más que en vecinos desconocidos, para ello usan un recomendador de facebook que da a los usuarios el control de las recomendaciones. El sistema entrega recomendaciones principalmente musicales. Por otro lado, también se busca profundizar en recomendaciones sociales gracias al testeo explícito del efecto de saber que le gusta a tus amigos para mejorar la inspección y control del usuario.
 
 
 
